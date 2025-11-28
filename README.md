@@ -4,3 +4,4 @@ Nama : Muhammad Rafi
 NIM : 1252002013
 Jurusan : Sistem Informasi
 Minat : Badminton, Basket
+Saya sedang belajar git dan github
